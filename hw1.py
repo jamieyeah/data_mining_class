@@ -56,4 +56,4 @@ print("The trimmed mean is", trimmed_mean)
 
 #how to get mode
 mode=max(set(age), key=age.count) #all the values are substituted into key function and max pick the max value
-print("The mode is ", mode) # the result is 32 and this is unimodal.
+print("The mode is ", mode) # the result is 32 and this is unimodal. 
